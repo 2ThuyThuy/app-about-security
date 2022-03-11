@@ -1,0 +1,1 @@
+py -m PyQt5.uic.pyuic demo_finger.ui -o main.py -x

@@ -1,0 +1,5 @@
+Tạo thư mục data để lưu dữ liệu vân tay
+
+thêm một giấu vân tay thì sẽ tạo thư mục tên id
+trong thư mục này có 2 file, ghi lại đặc điểm của 2 file đã mã hóa
+
