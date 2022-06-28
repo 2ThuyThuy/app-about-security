@@ -1,0 +1,1 @@
+py -m PyQt5.uic.pyuic design_APP.ui -o app_AES.py -x
